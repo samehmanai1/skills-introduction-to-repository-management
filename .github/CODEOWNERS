@@ -1,0 +1,7 @@
+# Core functionality
+/src/app.py                   @samehmanai1
+/src/backend/database.py      @samehmanai1
+/src/backend/routers/auth.py  @samehmanai1
+
+# Front-end static assets
+/src/static/                  @samehmanai1
